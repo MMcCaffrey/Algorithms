@@ -1,0 +1,4 @@
+# Housekeeping items
+.ipynb_checkpoints
+*.pyc
+blank_README.md
